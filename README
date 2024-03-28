@@ -1,1 +1,17 @@
+Test 2
 
+# Project description
+
+An e-commerce management (dashboard only) project with the following functions:
+
+- Users management
+- Products management
+- Categories management
+- Images management.
+
+# Your tasks
+
+1. Design the system using AWS services (drawing schema).
+2. List down all APIs which you think we will need to build.
+3. You don’t need to write code. Just describe how you organize the code.
+4. What security things need to be considered?"
